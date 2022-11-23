@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugene Kotyk/Eternal Love</h1>
-<h3 align="center">Frontend noDeveloper from Ukraine</h3>
+<h3 align="center">Frontend Developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eugene-cg&label=Profile%20views&color=0e75b6&style=flat" alt="eugene-cg" /> </p>
 
